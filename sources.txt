@@ -1,0 +1,3 @@
+\\pesto\cnsd\ops\tools
+\\pesto\tools
+\\fantail\deploy$
