@@ -21,9 +21,9 @@ This project inventories software from specified directories, saves the informat
     - Create a `sources.txt` file in the project directory.
     - List the directories you want to scan, one per line. For example:
       ```
-      C:/Users/rsmith/Downloads
-      C:/Users/rsmith/Desktop/Installers
-      /Users/rsmith/Applications
+      C:/Users/{USER}/Downloads
+      C:/Users/{USER}/Desktop/Installers
+      /Users/{USER}/Applications
       ```
 
 2. **Run the inventory script**:
